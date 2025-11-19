@@ -1,0 +1,27 @@
+{
+    "customers": [
+      {
+        "email": "alice@example.com",
+        "last4": "4242",
+        "orders": [
+          {
+            "order_number": 1,
+            "order_id": "ORD1001",
+            "date": "2025-10-18",
+            "status": "Delivered",
+            "total": 39.99,
+            "eligible": true
+          },
+          {
+            "order_number": 2,
+            "order_id": "ORD1002",
+            "date": "2025-08-10",
+            "status": "Delivered",
+            "total": 24.50,
+            "eligible": false
+          }
+        ]
+      }
+    ]
+  }
+  
