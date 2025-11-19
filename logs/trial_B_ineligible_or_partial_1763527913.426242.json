@@ -1,0 +1,19 @@
+{
+  "trial_label": "trial_B_ineligible_or_partial",
+  "email": "alice@example.com",
+  "last4": "4242",
+  "order_number": 2,
+  "decision": {
+    "status": "denied",
+    "reason": "Order not eligible for refund"
+  },
+  "timing": {
+    "seconds_total": 23.79151725769043,
+    "seconds_to_auth": 17.198853015899658,
+    "seconds_to_decision": 23.790451288223267
+  },
+  "cost": {
+    "minutes_total": 0.39652528762817385,
+    "total_cost_estimate": 0.008030505752563477
+  }
+}

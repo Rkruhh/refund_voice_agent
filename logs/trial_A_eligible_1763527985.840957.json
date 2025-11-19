@@ -1,0 +1,20 @@
+{
+  "trial_label": "trial_A_eligible",
+  "email": "alice@example.com",
+  "last4": "4242",
+  "order_number": 1,
+  "decision": {
+    "status": "approved",
+    "refund_id": "RFND-ORD1001",
+    "amount": 39.99
+  },
+  "timing": {
+    "seconds_total": 22.241874933242798,
+    "seconds_to_auth": 16.154951810836792,
+    "seconds_to_decision": 22.234185934066772
+  },
+  "cost": {
+    "minutes_total": 0.37069791555404663,
+    "total_cost_estimate": 0.007513958311080933
+  }
+}
